@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import arrowLelt from "../../assets/left-arrow.svg";
 import arrowRight from "../../assets/right-arrow.svg";
 import datas from "../../data/sliderData";
